@@ -1,2 +1,2 @@
 # Senati-Branch
-Practica para el uso de ramas
+Practicas para el uso de ramas
